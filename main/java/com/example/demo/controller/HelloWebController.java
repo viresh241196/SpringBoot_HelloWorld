@@ -17,4 +17,5 @@ public class HelloWebController {
 		model.addAttribute("message","This is a custom message. Hello from BridgeLabz");
 		return "message";
 	}
+	
 }
